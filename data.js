@@ -1,0 +1,1 @@
+module.exports = ['battery','pod','computer','switch','dell','apple','ps5'];
